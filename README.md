@@ -1,5 +1,5 @@
 # Bayshore
-Wangan Midnight Maximum Tune 6 server reimplementation written in TypeScript
+Wangan Midnight Maximum Tune 6RR+ server reimplementation written in TypeScript
 
 ## Credits
 This software is part of [Project Asakura](https://github.com/ProjectAsakura).
