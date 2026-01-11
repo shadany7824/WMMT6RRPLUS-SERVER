@@ -1,5 +1,5 @@
 # Bayshore
-Wangan Midnight Maximum Tune 6RR+ server reimplementation written in TypeScript
+Wangan Midnight Maximum Tune 6RR+ server reimplementation written in TypeScript. This Bayshore is for BLQ 6RR+. For joining the server Discord [click here](https://discord.gg/g8Rr7qpmK6).
 
 ## Credits
 This software is part of [Project Asakura](https://github.com/ProjectAsakura).
